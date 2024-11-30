@@ -1,0 +1,22 @@
+[![pages-build-deployment](https://github.com/duckduckgo/duckduckgo-help-pages/actions/workflows/pages/pages-build-deployment/badge.svg?branch=tgibbs%2Fatb-asset-tracking&event=create)](https://github.com/duckduckgo/duckduckgo-help-pages/actions/workflows/pages/pages-build-deployment)# Security Policy
+
+## Supported Versions
+
+Use this section to tell people about which versions of your project are
+currently being supported with security updates.
+
+| Version | Supported          |
+| ------- | ------------------ |
+| 5.1.x   | :white_check_mark: |
+| 5.0.x   | :x:                |
+| 4.0.x   | :white_check_mark: |
+| < 4.0   | :x:                |
+
+## Reporting a Vulnerability
+
+Use this section to tell people how to report a vulnerability.
+
+Tell them where to go, how often they can expect to get an update on a
+reported vulnerability, what to expect if the vulnerability is accepted or
+declined, etc.[![pages-build-deployment](https://github.com/duckduckgo/duckduckgo-help-pages/actions/workflows/pages/pages-build-deployment![07b80e21-3a7f-44a5-9047-90f97d0d6bcc-1_all_46](https://github.com/user-attachments/assets/43447303-4500-41fd-9f34-33f5b48bcf23)
+/badge.svg?branch=tgibbs%2Fatb-asset-tracking&event=branch_protection_rule)](https://github.com/duckduckgo/duckduckgo-help-pages/actions/workflows/pages/pages-build-deployment)https://github.com/duckduckgo/duckduckgo-help-pages/actions/workflows/pages/pages-build-deployment/badge.svg?branch=tgibbs%2Fatb-asset-tracking&event=branch_protection_rule100
