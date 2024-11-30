@@ -30,3 +30,5 @@ $ bundle exec jekyll serve --baseurl ""
 ### Search
 
 * Add `excluded_in_search: true` to any documentation page's front matter to exclude that page in the search results.
+https://www.packtpub.com/application-development/mastering-git![Uploading 1000000099.png…](✨ghe-config-apply)![Uploading 07b80e21-3a7f-44a5-9047-90f97d0d6bcc-1_all_46.png…]()
+
